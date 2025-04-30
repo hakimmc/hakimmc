@@ -26,10 +26,8 @@
 ---
 
 ### 🔥 Current Focus
-- 🧠 Developing production-grade embedded firmware
 - ⚡ Working with **NXP**, **STM32**, and **Texas Instruments** MCUs
 - 🛠️ **KiCad** PCB design and signal integrity
-- 🔍 Low-level debugging with **OpenOCD/J-Link**
 
 ---
 
