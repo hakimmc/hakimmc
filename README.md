@@ -1,5 +1,5 @@
 <h1 align="center">Abdülhakim Çalgın</h1>
-<h3 align="center">Embedded Systems Engineer "世上没有万事通"</h3>
+<h3 align="center">*Trying to become an Embedded Systems Engineer "世上没有万事通"</h3>
 
 <div align="center">
   
